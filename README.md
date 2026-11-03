@@ -1,16 +1,15 @@
-## Hi there 👋
+# Guru H
 
-<!--
-**guruh060802-afk/guruh060802-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+New to GitHub as of November 2026, and using it to learn in public - small projects, honest notes, and steady progress rather than a polished showcase.
 
-Here are some ideas to get you started:
+- Based in India
+- Currently learning: the basics, one small project at a time
+- How I work: I describe what I want in plain English, build it, and keep it here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What's coming
+
+The first projects will land here soon. Every repository will carry a short description, so you know what it is before you open it.
+
+## Get in touch
+
+Open an issue on any repository, or reach me through my GitHub profile.
